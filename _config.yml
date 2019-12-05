@@ -8,6 +8,13 @@ title: Qin Alliance
 # Short description of your site
 description: Qin Alliance is the largest nonprofit association representing the qin practice community. <br />路上有琴
 
+google_fonts:
+  - name: "Source Sans Pro"
+    weights: "400,400i,700,700i"
+  - name: "Lora"
+    weights: "400,400i,700,700i"
+
+
 author:
   name: Haocun Yu
   
