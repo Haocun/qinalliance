@@ -1,1 +1,9 @@
 theme: jekyll-theme-slate
+
+# --- General options --- #
+
+# Name of website
+title: Qin Alliance
+
+# Short description of your site
+description: 路上有琴 Qin Alliance is the largest nonprofit association representing the qin practice community.
