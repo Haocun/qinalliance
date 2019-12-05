@@ -7,3 +7,10 @@ title: Qin Alliance
 
 # Short description of your site
 description: Qin Alliance is the largest nonprofit association representing the qin practice community. <br />路上有琴
+
+author:
+  name: Haocun Yu
+  
+social-network-links:
+  rss: true
+  email: "haocunyu@gmail.com"
