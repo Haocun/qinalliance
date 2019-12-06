@@ -8,7 +8,10 @@ title: Qin Alliance
 # Short description of your site
 description: Qin Alliance is the largest nonprofit association representing the qin practice community. <br />路上有琴
 
-font: "Comic Sans MS", cursive, sans-serif
+baseurl: "/example" # the subpath of your site, e.g. "/blog"
+url: "https://qinalliance" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+
+#font: "Comic Sans MS", cursive, sans-serif
 
 
 author:
