@@ -8,8 +8,7 @@ title: Qin Alliance
 # Short description of your site
 description: Qin Alliance is the largest nonprofit association representing the qin practice community. <br />路上有琴
 
-font:         "'Times New Roman', Times, serif"
-font_heading: "'Times New Roman', Times, serif"
+font-family: arial,"microsoft yahei",simsun,sans-self;
 
 
 author:
