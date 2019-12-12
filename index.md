@@ -3,6 +3,7 @@
 #### 琴社列表
 - [中國](China/China.md)
 - [台灣](Taiwan.md)
+- [日本](Japan.md)
 - [美國](US.md)
 - [歐洲](Europe.md)
 - [英国](UK.md)
