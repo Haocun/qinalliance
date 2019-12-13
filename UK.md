@@ -1,5 +1,15 @@
 ### London
-#### ZIYO
+
+#### London Youlan Qin Society <br/> 倫敦幽蘭琴社
+**Contacts**:  
+Cheng Yu chengyu@ukchinesemusic.com  
+Julian Joseph jmgjoseph@ukchinesemusic.com  
+[Facebook](https://www.facebook.com/londonyoulanqinsociety/)  
+[Website](http://www.ukchinesemusic.org/londonyoulanqin/)
+
+
+
+#### ZIYO <br/>子遊
 **Address**:  
 122 Auckland Road  SE19 2RP  
 London, United Kingdom  
