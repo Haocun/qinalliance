@@ -5,4 +5,4 @@ Phone: 604.270.1135
 Email: wxjguqin@gmail.com  
 [Website](http://www.wxjguqin.ca/)
 
-[Back返回](index.md)
+[Back(返回)](index.md)
