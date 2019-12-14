@@ -1,17 +1,24 @@
-#### 北美琴社 North American Guqin Association
-社長：王菲  
+#### North American Guqin Association <br/>北美琴社 
+Contact：Fei Wang 王菲  
 55 Taylor St, San Francisco, CA 94102  
-[琴社網址](http://www.guqin.org/)  
+Phone: 1-415-857-3918, 510-489-1892  
 Email: info@guqin.org  
-Tel: 1-415-857-3918, 510-489-1892  
+[Website](http://www.guqin.org/)  
 
-
-#### 北美梅庵琴社 North America Mei'an Guqin Society  
-北美梅庵琴社，2008年於美國密西根成立，2013年遷至波士頓。  
-社長：于水山  
+####  North America Mei'an Guqin Society <br/>北美梅庵琴社
+Boston, Massachusetts  
+Contact：Shuishan Yu 于水山   
 Email：aqualps@yahoo.com  
-[琴社網址](https://meianguqin.wordpress.com/)
+[Website](https://meianguqin.wordpress.com/)
+
+
+####  Nine Pines Studio <br/>九松齋
+San Francisco, California  
+Contact: Alan Yip 叶沛霖  
+Phone: 213-880-7689  
+Email: ritesofantiquity@gmail.com  
+[Website](Alanyip.art)
+
+
 
 [返回](index.md)
-
-
