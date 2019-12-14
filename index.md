@@ -5,6 +5,7 @@
 - [台灣](Taiwan.md)
 - [日本](Japan.md)
 - [新加坡](Singapore.md)  
+- [馬來西亞](Malaysia.md)
 - [美國](US.md)
 - [加拿大](Canada.md)
 - [歐洲](Europe.md)
